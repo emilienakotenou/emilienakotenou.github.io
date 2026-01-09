@@ -77,7 +77,7 @@ params:
                <div style="margin-bottom: 0.5cm;"></div>
                I am an applied microeconomist with interests in labor economics, economics of education, and health economics. My primary research interest examines how institutional policies and resources affect student outcomes in higher education, focusing on college costs, sports, and amenities. Additionally, I study public health policies, particularly investigating vaccination programs' impacts on maternal and infant health outcomes, and the relationship between substance legalization and healthcare decisions. I received my PhD in Economics from the University of Oklahoma-Norman.
                <div style="margin-bottom: 0.5cm;"></div>
-          imageUrl: "/picture.jpeg"
+          imageUrl: "/picture.jpg"
           #imageWidth: 280
           #imageHeight: 300
           imageWidth: 245
@@ -91,9 +91,9 @@ params:
               - name: Research
                 url: /papers/
                 weight: 2
-              - name: Code
-                url: /code/
-                weight: 3                
+              # - name: Code
+              #   url: /code/
+              #   weight: 3                
               - name: CV
                 url: /cv.pdf
                 weight: 3
