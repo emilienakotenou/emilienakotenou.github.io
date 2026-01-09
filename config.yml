@@ -1,5 +1,5 @@
-baseURL: "https://ahmedelfatmaoui.github.io/" 
-title: Ahmed El Fatmaoui
+baseURL: "https://emilienakotenou.github.io/" 
+title: Emilien Akotenou
 paginate: 14
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true  
 
 social:
-    twitter: aelfatmaoui
+    twitter: e_akotenou
 
 taxonomies:
     tag: tags
@@ -46,7 +46,7 @@ params:
                <div style="margin-bottom: 0.5cm;"></div>
                I am an applied microeconomist with interests in labor economics, economics of education, and health economics. My primary research interest examines how institutional policies and resources affect student outcomes in higher education, focusing on college costs, sports, and amenities. Additionally, I study public health policies, particularly investigating vaccination programs' impacts on maternal and infant health outcomes, and the relationship between substance legalization and healthcare decisions. I received my PhD in Economics from the University of Oklahoma-Norman.
                <div style="margin-bottom: 0.5cm;"></div>    
-    author: Ahmed El Fatmaoui
+    author: Emilien Akotenou
     DateFormat: "January 2024"
     defaultTheme: light
     hideFooter: true
@@ -82,7 +82,7 @@ params:
           #imageHeight: 300
           imageWidth: 245
           imageHeight: 250
-          imageTitle: Ahmed El Fatmaoui
+          imageTitle: Emilien Akotenou
           #imageTitle: "<span style='font-size: 12.5px;'>Ahmed El Fatmaoui</span>"
           buttons:
               - name: Teaching
@@ -105,7 +105,7 @@ params:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:aelfatmaoui@ou.edu
+          url: mailto:eakotenou@ou.edu
         - name: Location
           url: /location/
         # - name: Office Hours
@@ -126,7 +126,7 @@ params:
         hiddenInList: true # Set to true to hide cover images in paper
         hiddenInSingle: true
     label:
-      text: "Ahmed El Fatmaoui"
+      text: "Emilien Akotenou"
       icon: /favicon.ico
       iconHeight: 18
 
