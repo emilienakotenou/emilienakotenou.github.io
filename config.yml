@@ -80,7 +80,7 @@ params:
           imageUrl: "/picture.jpg"
           #imageWidth: 280
           #imageHeight: 300
-          imageWidth: 245
+          imageWidth: 250
           imageHeight: 280
           imageTitle: Emilien Akotenou
           #imageTitle: "<span style='font-size: 12.5px;'>Ahmed El Fatmaoui</span>"
