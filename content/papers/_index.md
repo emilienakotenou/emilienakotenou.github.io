@@ -59,6 +59,12 @@ display: block !important;
   note   = {Under Review}
 }</code></pre></p></div><br>
 
+<hr>
+
+<h2><a id="works-in-progress" class="anchor" href="#workinprogress" aria-hidden="true"><span class="octicon octicon-link"></span></a><i class="fas fa-clipboard-list" style="color: #1976d2; margin-right: 8px;"></i>Works in Progress</h2>
+
+<p style="margin:0"> <b>Conflict and Adolescent Development in Ethiopia</b> <br> with Sarah Baird, Joan Hamory, and Nicola Jones <br><button class="accordion">Abstract</button><div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>This paper examines how conflict exposure shapes adolescent development outcomes in Ethiopia, drawing on longitudinal data from the Gender and Adolescence: Global Evidence (GAGE) study. We study how conflict disrupts schooling, severs community support systems, and widens inequality between adolescents whose families can absorb the shock and those who cannot—focusing on outcomes including educational attainment, NEET status, and cognitive achievement. We identify the causal effects of conflict exposure using geographic variation in conflict intensity, and document how gender and pre-existing disadvantage mediate the severity of these impacts.</p></div><br>
+
 <script> 
 var acc = document.getElementsByClassName("accordion");
 var i;
