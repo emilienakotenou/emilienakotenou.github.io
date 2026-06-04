@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true  
 
 social:
-    twitter: e_akotenou
+    # twitter: your_handle  # add your Twitter/X handle if you have one
 
 taxonomies:
     tag: tags
@@ -24,7 +24,7 @@ menu:
           #   url: /code/
           #   weight: 3            
           - name: CV
-            url: /cv.pdf
+            url: /cv_Emilien%20Akotenou_2026.pdf
             weight: 3
         #   # weight: 1
         # - name: Design
@@ -40,12 +40,10 @@ menu:
 params:
     description: |
                <div style="margin-bottom: 0.2cm;"></div>
-               Welcome! 
+               Welcome!
                <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D Student in Department of Economics at university of Oklahoma .
+               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027). My research is in development and spatial economics. I study digital connectivity and household decision-making in Kenya, and inequality of opportunity and conflict effects on adolescent development in Sub-Saharan Africa.
                <div style="margin-bottom: 0.5cm;"></div>
-               I am an applied microeconomist with interests in labor economics, economics of education, and health economics. My primary research interest examines how institutional policies and resources affect student outcomes in higher education, focusing on college costs, sports, and amenities. Additionally, I study public health policies, particularly investigating vaccination programs' impacts on maternal and infant health outcomes, and the relationship between substance legalization and healthcare decisions. I received my PhD in Economics from the University of Oklahoma-Norman.
-               <div style="margin-bottom: 0.5cm;"></div>    
     author: Emilien Akotenou
     DateFormat: "January 2024"
     defaultTheme: light
@@ -71,11 +69,11 @@ params:
           title: "<span style='font-size: 26px;'>Emilien Akotenou</span>"
           subtitle: |
                <div style="margin-bottom: 0.2cm;"></div>
-               Welcome! 
+               Welcome!
                <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D. candidate in Economics at the University of Oklahoma, specializing in applied microeconomics.
+               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027).
                <div style="margin-bottom: 0.5cm;"></div>
-               I am an applied microeconomist with interests in labor economics, economics of education, and health economics. My primary research interest examines how institutional policies and resources affect student outcomes in higher education, focusing on college costs, sports, and amenities. Additionally, I study public health policies, particularly investigating vaccination programs' impacts on maternal and infant health outcomes, and the relationship between substance legalization and healthcare decisions. I received my PhD in Economics from the University of Oklahoma-Norman.
+               My research is in <b>development and spatial economics</b>. I study how digital connectivity alters household decision-making in developing economies—exploiting the staggered expansion of fiber-optic broadband across Kenya to identify the effects of internet access on women's employment, reproductive choices, and health behavior. In a second line of work, I examine <b>inequality of opportunity</b> and the <b>effects of conflict on adolescent development</b> in Sub-Saharan Africa, using the inequality of opportunity framework to measure how much of the variation in schooling, cognitive achievement, and labor market outcomes is driven by circumstances of birth—region, parental education, gender, and exposure to conflict—rather than individual effort.
                <div style="margin-bottom: 0.5cm;"></div>
           imageUrl: "/picture.jpg"
           #imageWidth: 280
@@ -83,7 +81,7 @@ params:
           imageWidth: 250
           imageHeight: 280
           imageTitle: Emilien Akotenou
-          #imageTitle: "<span style='font-size: 12.5px;'>Ahmed El Fatmaoui</span>"
+          #imageTitle: "<span style='font-size: 12.5px;'>Emilien Akotenou</span>"
           buttons:
               - name: Teaching
                 url: /courses/
@@ -95,7 +93,7 @@ params:
               #   url: /code/
               #   weight: 3                
               - name: CV
-                url: /cv.pdf
+                url: /cv_Emilien%20Akotenou_2026.pdf
                 weight: 3
               # - name: Design
               #   url: /design/
@@ -103,21 +101,17 @@ params:
             #   url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
-          url: /cv.pdf
+          url: /cv_Emilien%20Akotenou_2026.pdf
         - name: Email
           url: mailto:eakotenou@ou.edu
         - name: Location
           url: /location/
-        # - name: Office Hours
-        #   url: /officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=EdHxr3EAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/ahmedelfatmaoui?tab=repositories
+          url: https://github.com/emilienakotenou
         - name: Linkedin
-          url: https://www.linkedin.com/in/ahmed-el-fatmaoui-75114b330/
-        - name: Twitter
-          url: https://x.com/ahmedelfatmaoui
+          url: https://www.linkedin.com/in/emilien-akotenou-1b12a714b
+        # - name: Twitter
+        #   url: https://x.com/your_handle  # uncomment and add if you have a Twitter/X account
 
     assets:
         disableHLJS: true
