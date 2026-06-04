@@ -42,7 +42,7 @@ params:
                <div style="margin-bottom: 0.2cm;"></div>
                Welcome!
                <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027). My research is in development economics. I study digital connectivity and household decision-making in Kenya, and inequality of opportunity and conflict effects on adolescent development in Sub-Saharan Africa.
+               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027), specializing in development economics. I am a development economist with interests in digital infrastructure and household decisions, inequality of opportunity, and conflict effects on adolescent development. My primary research examines how broadband internet expansion shapes labor market participation and reproductive health behavior among women in Kenya. Additionally, I study how conflict exposure and structural inequality shape adolescent development in Sub-Saharan Africa.
                <div style="margin-bottom: 0.5cm;"></div>
     author: Emilien Akotenou
     DateFormat: "January 2024"
@@ -71,9 +71,9 @@ params:
                <div style="margin-bottom: 0.2cm;"></div>
                Welcome!
                <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027).
+               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027), specializing in development economics.
                <div style="margin-bottom: 0.5cm;"></div>
-               My research is in <b>development economics</b>. I study how digital connectivity alters household decision-making in developing economies—exploiting the staggered expansion of fiber-optic broadband across Kenya to identify the effects of internet access on women's employment, reproductive choices, and health behavior. In a second line of work, I examine <b>inequality of opportunity</b> and the <b>effects of conflict on adolescent development</b> in Sub-Saharan Africa, using the inequality of opportunity framework to measure how much of the variation in schooling, cognitive achievement, and labor market outcomes is driven by circumstances of birth—region, parental education, gender, and exposure to conflict—rather than individual effort.
+               I am a development economist with interests in <b>digital infrastructure and household decisions</b>, <b>inequality of opportunity</b>, and <b>conflict effects on adolescent development</b>. My primary research examines how broadband internet expansion shapes labor market participation and reproductive health behavior among women in Kenya, exploiting the staggered rollout of fiber-optic networks across the country in a difference-in-differences framework. Additionally, I study how conflict exposure and structural inequality shape adolescent development in Sub-Saharan Africa, drawing on longitudinal data from Ethiopia to measure how circumstances of birth—region, parental education, gender, and conflict exposure—determine outcomes in schooling, cognitive achievement, and labor market entry.
                <div style="margin-bottom: 0.5cm;"></div>
           imageUrl: "/picture.jpg"
           #imageWidth: 280
