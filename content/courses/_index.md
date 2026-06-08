@@ -43,7 +43,7 @@ display: block !important;
 }
 </style>
 
-<h2><i class="fas fa-chalkboard-teacher" style="color: #2e7d32; margin-right: 8px;"></i>Instructor of Record</h2>
+<h2>Instructor of Record</h2>
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Micro II: Game Theory</a> <br> <i>African School of Economics | Summer 2026</i> <br><br>
 
@@ -63,7 +63,7 @@ Course Description
 
 <hr>
 
-<h2><i class="fas fa-users" style="color: #1976d2; margin-right: 8px;"></i>Teaching Assistant</h2>
+<h2>Teaching Assistant</h2>
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Intermediate Microeconomics</a> <br> <i>University of Oklahoma | Fall 2022, Fall 2023</i> <br><br>
 

@@ -43,7 +43,7 @@ display: block !important;
 }
 </style>
 
-<h2><a id="working-papers" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a><i class="fas fa-file-alt" style="color: #1976d2; margin-right: 8px;"></i>Working Papers</h2>
+<h2><a id="working-papers" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h2>
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Does Internet Expansion Improve Employment and Health Outcomes? Evidence from Broadband Rollout in Kenya</a> <br> Emilien Akotenou <br><button class="accordion">Abstract</button><div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>High fertility rates remain a binding constraint on women's labor market participation in sub-Saharan Africa. This paper asks whether digital infrastructure can reduce this constraint. Exploiting the staggered rollout of fiber optic backbone nodes following Kenya's 2009 submarine cable arrival, I construct a woman-by-year panel from Demographic and Health Survey birth histories and define treatment as residing within 10 kilometers of an active node. Two-way fixed effects and Callaway-Sant'Anna (2021) estimates show that broadband exposure reduces the likelihood of giving birth by 0.7–1.0 percentage points and widens birth spacing. Node arrival shifts women into non-agricultural employment, raising the opportunity cost of childbearing through both the labor market and information channels. Instrumental variable estimates using road network proximity confirm robustness to endogenous placement. Digital infrastructure reduces barriers to women's economic participation.</p></div><br>
 
