@@ -42,7 +42,7 @@ params:
                <div style="margin-bottom: 0.2cm;"></div>
                Welcome!
                <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027), specializing in development economics. I am an applied microeconomist with interests in digital infrastructure and household decisions, inequality of opportunity, and conflict effects on adolescent development. My primary research examines how broadband internet expansion shapes labor market participation and reproductive health behavior among women in Kenya. Additionally, I study how conflict exposure and structural inequality shape adolescent development in Sub-Saharan Africa.
+               Emilien Akotenou is a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist. His research asks how conflict, digital technology, and gender norms shape the economic lives of young people in sub-Saharan Africa.
                <div style="margin-bottom: 0.5cm;"></div>
     author: Emilien Akotenou
     DateFormat: "January 2024"
@@ -71,9 +71,7 @@ params:
                <div style="margin-bottom: 0.2cm;"></div>
                Welcome!
                <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D. candidate in Economics at the University of Oklahoma (expected 2027), specializing in development economics.
-               <div style="margin-bottom: 0.5cm;"></div>
-               I am an applied microeconomist with interests in digital infrastructure and household decisions, inequality of opportunity, and conflict effects on adolescent development. My primary research examines how broadband internet expansion shapes labor market participation and reproductive health behavior among women in Kenya, exploiting the staggered rollout of fiber-optic networks across the country. Additionally, I study how conflict exposure and structural inequality shape adolescent development in Sub-Saharan Africa, drawing on longitudinal data from Ethiopia to measure how circumstances of birth—region, parental education, gender, and conflict exposure—determine outcomes in schooling, cognitive achievement, and labor market entry.
+               Emilien Akotenou is a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist. His research asks how conflict, digital technology, and gender norms shape the economic lives of young people in sub-Saharan Africa. He studies the effects of armed conflict on youth human capital, internet expansion on fertility in Kenya, and gender norms transformation in Ethiopia through a cluster randomized controlled trial. He also has a project on digital payments adoption in Benin in development with J-PAL. Before his doctoral studies, Emilien worked as a Research Assistant and Field Coordinator with the World Bank (DIME), the Center for Evaluation and Development (C4ED), and the Institute for Economic Research in Political Economy (IREEP) in Benin. He holds an M.A. in Economics from the University of Oklahoma and an M.S. in Mathematics, Economics and Statistics from the African School of Economics.
                <div style="margin-bottom: 0.5cm;"></div>
           imageUrl: "/picture.jpg"
           #imageWidth: 280
