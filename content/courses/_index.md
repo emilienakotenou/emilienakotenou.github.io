@@ -47,7 +47,9 @@ display: block !important;
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Micro II: Game Theory</a> <br> <i>African School of Economics | Summer 2026</i> <br><br>
 
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Intermediate Microeconomics</a> <br> <i>University of Oklahoma | TBD</i> <br><br>
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Intermediate Microeconomics</a> <br> <i>University of Oklahoma | Fall &amp; Spring</i> <br><br>
+
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">International Trade</a> <br> <i>University of Oklahoma | Summer 2025</i> <br><br>
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Principles of Microeconomics (ECON 1123)</a> <br> <i>University of Oklahoma - Norman | Fall 2024</i> <br><button class="accordion">
 Course Description
