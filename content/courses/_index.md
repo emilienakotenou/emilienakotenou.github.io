@@ -65,11 +65,13 @@ Course Description
 
 <h2><i class="fas fa-users" style="color: #1976d2; margin-right: 8px;"></i>Teaching Assistant</h2>
 
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Impact Evaluation / Applied Econometrics</a> <br> <i>African School of Economics | 2019–2020</i> <br><br>
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Intermediate Microeconomics</a> <br> <i>University of Oklahoma | Fall 2022, Fall 2023</i> <br><br>
 
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Econometrics</a> <br> <i>African School of Economics | 2019–2020</i> <br><br>
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Intermediate Macroeconomics</a> <br> <i>University of Oklahoma | Spring 2024</i> <br><br>
 
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Statistics Software</a> <br> <i>African School of Economics | 2019–2020</i> <br><br>
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Econometric Analysis</a> <br> <i>University of Oklahoma | Spring 2024</i> <br><br>
+
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Managerial Economics II: Machine Learning and High Dimensions</a> <br> <i>University of Oklahoma | Spring 2024</i> <br><br>
 
 <script> 
 var acc = document.getElementsByClassName("accordion");
