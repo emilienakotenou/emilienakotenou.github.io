@@ -65,10 +65,11 @@ Course Description
 
 <h2><i class="fas fa-users" style="color: #1976d2; margin-right: 8px;"></i>Teaching Assistant</h2>
 
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Econometrics &amp; Impact Evaluation</a> <br> <i>African School of Economics | 2019–2020</i> <br><button class="accordion">
-Courses
-</button>
-<div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>Teaching Assistant for Econometrics, Impact Evaluation/Applied Econometrics, and Statistics Software (first-year undergraduate students in the Statistics-Economics program).</p></div><br>
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Impact Evaluation / Applied Econometrics</a> <br> <i>African School of Economics | 2019–2020</i> <br><br>
+
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Econometrics</a> <br> <i>African School of Economics | 2019–2020</i> <br><br>
+
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold">Statistics Software</a> <br> <i>African School of Economics | 2019–2020</i> <br><br>
 
 <script> 
 var acc = document.getElementsByClassName("accordion");
