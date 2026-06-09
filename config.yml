@@ -77,7 +77,7 @@ params:
           #imageWidth: 280
           #imageHeight: 300
           imageWidth: 210
-          imageHeight: 290
+          imageHeight: 260
           imageTitle: Emilien Akotenou
           #imageTitle: "<span style='font-size: 12.5px;'>Emilien Akotenou</span>"
           buttons:
