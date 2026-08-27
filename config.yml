@@ -66,7 +66,7 @@ params:
     math: true
     profileMode:
           enabled: true 
-          title: "<span style='font-size: 26px;'>Emilien Akotenou</span>"
+          title: "Emilien Akotenou"
           subtitle: |
                <div style="margin-bottom: 0.2cm;"></div>
                Welcome!
@@ -80,23 +80,7 @@ params:
           imageHeight: 260
           imageTitle: Emilien Akotenou
           #imageTitle: "<span style='font-size: 12.5px;'>Emilien Akotenou</span>"
-          buttons:
-              - name: Teaching
-                url: /courses/
-                weight: 1
-              - name: Research
-                url: /papers/
-                weight: 2
-              # - name: Code
-              #   url: /code/
-              #   weight: 3                
-              - name: CV
-                url: /cv_Emilien%20Akotenou_2026.pdf
-                weight: 3
-              # - name: Design
-              #   url: /design/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
+          # buttons removed — the header navigation now covers these links
     socialIcons:
         - name: CV
           url: /cv_Emilien%20Akotenou_2026.pdf
