@@ -24,7 +24,7 @@ menu:
           #   url: /code/
           #   weight: 3            
           - name: CV
-            url: /cv_Emilien%20Akotenou_2026.pdf
+            url: /cv-emilien-akotenou.pdf
             weight: 3
         #   # weight: 1
         # - name: Design
@@ -83,7 +83,7 @@ params:
           # buttons removed — the header navigation now covers these links
     socialIcons:
         - name: CV
-          url: /cv_Emilien%20Akotenou_2026.pdf
+          url: /cv-emilien-akotenou.pdf
         - name: Email
           url: mailto:eakotenou@ou.edu
         - name: Location
