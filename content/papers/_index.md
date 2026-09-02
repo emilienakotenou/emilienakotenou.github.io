@@ -22,10 +22,15 @@ description: "Research Papers"
 </div>
 
 <div class="entry-item">
+<h3 class="entry-title">Gender Norms Transformation to Improve Capabilities of Young Adolescents in Ethiopia: A Cluster Randomized Control Trial</h3>
+<p class="entry-meta">with <a href="https://iiep.gwu.edu/sarah-baird">Sarah Baird</a>, <a href="https://jhamory.oucreate.com/">Joan Hamory</a>, and <a href="https://odi.org/en/profile/nicola-jones/">Nicola Jones</a></p>
+<button class="accordion">Abstract</button>
+<div class="panel"><p>Adolescence is a window for interventions to improve current and longer-term well-being, yet it is also a time when girls face an array of restrictive gender norms, reinforced by peers, families, communities and institutions. Without norms change at each of these levels, it may be difficult to improve girls' outcomes in a sustainable way. This study analyzes data from a cluster randomized controlled trial in Ethiopia to evaluate near-term impacts of multi-level adolescent-centric interventions aimed at gender norms transformation—layered to include girls, boys, their families and communities—on the empowerment of approximately 2,300 young adolescent girls (10-14). We find that gender-focused programming can improve a broad range of girls' capabilities after one year, though we don't detect sustained improvements after an additional 1-2 years of follow-up. In locations where there is strong community-level support and where interventions are implemented well, there are improvements in girls' capabilities as a result of the most comprehensive programming, and these improvements are more wide-ranging, more sustainable (at least up to 2.5 years). Impacts are weaker (and sometimes even negative) where support and implementation are less consistent, suggesting the need for tailored and well-monitored implementation approaches in different contexts.</p></div>
+</div>
+
+<div class="entry-item">
 <h3 class="entry-title">Growing Up in Conflict: Conflict and Youth Human Capital Trajectory</h3>
 <p class="entry-meta">with <a href="https://jhamory.oucreate.com/">Joan Hamory</a></p>
-<button class="accordion">Abstract</button>
-<div class="panel"><p>Armed conflict can disrupt schooling, work, health, and psychosocial well-being, yet credible evidence on youth impacts remains limited in many settings. This study links Ethiopian household–youth panel data from 2017–2023 with geocoded conflict event data to examine how changes in local conflict exposure affect youth outcomes. Conflict is measured at the local level using events, fatal events, and fatalities, with specifications that capture both the onset of conflict after 2018 and year-to-year variation in intensity. Simple averages suggest substantial differences between conflict-exposed and non-exposed locations, motivating a research design based on location and year fixed effects and dynamic models that track outcomes around conflict timing. The paper evaluates impacts on education, labor participation, food insecurity, health, resilience, social support, and aspirations, aiming to inform youth-focused policies in conflict-affected areas.</p></div>
 </div>
 
 <script>
