@@ -38,12 +38,7 @@ menu:
         #   weight: 4
 
 params:
-    description: |
-               <div style="margin-bottom: 0.2cm;"></div>
-               Welcome!
-               <div style="margin-bottom: 0.5cm;"></div>
-               Emilien Akotenou is a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist. His research asks how conflict, digital technology, and gender norms shape the economic lives of young people in sub-Saharan Africa.
-               <div style="margin-bottom: 0.5cm;"></div>
+    description: "Emilien Akotenou is a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist working on development economics, digital technology, conflict, and inequality of opportunity in sub-Saharan Africa."
     author: Emilien Akotenou
     DateFormat: "January 2024"
     defaultTheme: light
@@ -68,11 +63,16 @@ params:
           enabled: true 
           title: "Emilien Akotenou"
           subtitle: |
-               <div style="margin-bottom: 0.2cm;"></div>
-               Welcome!
-               <div style="margin-bottom: 0.5cm;"></div>
-               I am a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist. My research asks how digital technology, conflict, and inequality of opportunity transform the economic lives of young people in sub-Saharan Africa. I study the effects of armed conflict on youth human capital, internet expansion on fertility in Kenya, and inequality of opportunity in adolescent development. I also have a project on digital payments adoption in Benin in development with J-PAL. Before my doctoral studies, I worked as a Research Assistant and Field Coordinator with the World Bank (DIME), the Center for Evaluation and Development (C4ED), and the Institute for Economic Research in Political Economy (IREEP) in Benin. I hold an M.A. in Economics from the University of Oklahoma and an M.S. in Mathematics, Economics and Statistics from the African School of Economics.
-               <div style="margin-bottom: 0.5cm;"></div>
+               <p>I'm an applied microeconomist.</p>
+               <p>My research is on development economics, digital technology, conflict, and inequality of opportunity in sub-Saharan Africa.</p>
+               <p>I'm a Ph.D. Candidate in the <a href="https://www.ou.edu/cas/economics">Department of Economics</a> at the University of Oklahoma, expected 2027.</p>
+               <p>I study the effects of armed conflict on youth human capital, internet expansion on fertility in Kenya, and inequality of opportunity in adolescent development.</p>
+               <p>Before my doctoral studies, I worked as a Research Assistant and Field Coordinator with the <a href="https://www.worldbank.org/en/research/dime">World Bank (DIME)</a>, the <a href="https://c4ed.org/">Center for Evaluation and Development (C4ED)</a>, and the Institute for Economic Research in Political Economy (IREEP) in Benin.</p>
+               <p>I hold an M.A. in Economics from the University of Oklahoma and an M.S. in Mathematics, Economics and Statistics from the <a href="https://africanschoolofeconomics.com/">African School of Economics</a>.</p>
+               <div class="news">
+               <h2 class="news-head">News</h2>
+               <p><span class="news-date">August 2026</span>Our proposal <em>Bridging the Gender Gap in Digital Merchant Payments: A Pilot Randomized Evaluation of NFC Technology, Security Training, and Cashback Incentives for Women-Led SMEs in Benin</em> has been conditionally approved for $75,000 in funding by the WEE-DiFine Initiative.</p>
+               </div>
           imageUrl: "/picture.jpg"
           #imageWidth: 280
           #imageHeight: 300
