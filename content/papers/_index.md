@@ -16,6 +16,8 @@ description: "Research Papers"
 <div class="entry-item">
 <h3 class="entry-title">Growing Up in Conflict: Conflict and Youth Human Capital Trajectory</h3>
 <p class="entry-meta">with <a href="https://jhamory.oucreate.com/">Joan Hamory</a></p>
+<button class="accordion">Abstract</button>
+<div class="panel"><p>Physical capital recovers from war, but human capital does not. We study whether adolescent human capital recovers after conflict, using five rounds of a panel following 6,700 Ethiopian adolescents from 2017 to 2025 linked to geolocated conflict data. Exploiting variation in the timing of first exposure to conflict in a staggered difference-in-differences design, we find that school enrollment falls and does not recover, while adolescent paid work rises. Depression increases, and trust in adults declines. Suggestive evidence points to a coping mechanism: conflict raises household food insecurity, families turn to adolescent labor, and adolescents who leave school do not return once the violence ends. Reconstruction that restores physical capital alone will not restore schooling.</p></div>
 </div>
 
 <div class="entry-item">
