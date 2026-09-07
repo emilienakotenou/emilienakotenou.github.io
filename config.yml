@@ -65,10 +65,11 @@ params:
           subtitle: |
                <p>Welcome!</p>
                <p>I am a Ph.D. Candidate in Economics at the University of Oklahoma <a href="https://www.ou.edu/cas/economics">Department of Economics</a>, expected 2027.</p>
-               <p>I am an applied microeconomist with interests in development economics, digital technology, conflict, and inequality. My primary research interest examines how digital infrastructure and armed conflict shape the economic lives of young people in sub-Saharan Africa, focusing on employment, fertility, and human capital accumulation. Additionally, I study inequality of opportunity in adolescent development and the role of gender norms in Ethiopia. Before my doctoral studies, I worked as a Research Assistant and Field Coordinator with the <a href="https://www.worldbank.org/en/research/dime">World Bank (DIME)</a>, the <a href="https://c4ed.org/">Center for Evaluation and Development (C4ED)</a>, and the Institute for Economic Research in Political Economy (IREEP) in Benin. I hold an M.A. in Economics from the University of Oklahoma and an M.S. in Mathematics, Economics and Statistics from the <a href="https://africanschoolofeconomics.com/">African School of Economics</a>.</p>
+               <p>I am an applied microeconomist with interests in development economics, digital technology, conflict, and inequality.</p>
+               <p>My primary research interest examines how digital infrastructure and armed conflict shape the economic lives of young people in sub-Saharan Africa, focusing on employment, fertility, and human capital accumulation. Additionally, I study inequality of opportunity in adolescent development and the role of gender norms in Ethiopia. Before my doctoral studies, I worked as a Research Assistant and Field Coordinator with the <a href="https://www.worldbank.org/en/research/dime">World Bank (DIME)</a>, the <a href="https://c4ed.org/">Center for Evaluation and Development (C4ED)</a>, and the Institute for Economic Research in Political Economy (IREEP) in Benin. I hold an M.A. in Economics from the University of Oklahoma and an M.S. in Mathematics, Economics and Statistics from the <a href="https://africanschoolofeconomics.com/">African School of Economics</a>.</p>
                <div class="news">
                <h2 class="news-head">News</h2>
-               <p><span class="news-date">August 2026</span>My proposal <em>Bridging the Gender Gap in Digital Merchant Payments: A Pilot Randomized Evaluation of NFC Technology, Security Training, and Cashback Incentives for Women-Led SMEs in Benin</em> has been approved for $75,000 in funding by the WEE-DiFine Initiative.</p>
+               <p><span class="news-date">August 2026</span>One of my research projects on digital technology is funded by the WEE-DiFine Initiative for $75,000.</p>
                </div>
           imageUrl: "/picture.jpg"
           #imageWidth: 280
@@ -77,7 +78,16 @@ params:
           imageHeight: 260
           imageTitle: Emilien Akotenou
           #imageTitle: "<span style='font-size: 12.5px;'>Emilien Akotenou</span>"
-          # buttons removed — the header navigation now covers these links
+          buttons:
+              - name: Teaching
+                url: /courses/
+                weight: 1
+              - name: Research
+                url: /papers/
+                weight: 2
+              - name: CV
+                url: /cv-emilien-akotenou.pdf
+                weight: 3
     socialIcons:
         - name: CV
           url: /cv-emilien-akotenou.pdf
