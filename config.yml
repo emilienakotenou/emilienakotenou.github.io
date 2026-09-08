@@ -38,7 +38,7 @@ menu:
         #   weight: 4
 
 params:
-    description: "Emilien Akotenou is a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist working on development economics, digital technology, conflict, and inequality of opportunity in sub-Saharan Africa."
+    description: "Emilien Akotenou is a Ph.D. Candidate in Economics at the University of Oklahoma and an applied microeconomist working on development economics, digital economics, conflict, and inequality of opportunity in sub-Saharan Africa."
     author: Emilien Akotenou
     DateFormat: "January 2024"
     defaultTheme: light
