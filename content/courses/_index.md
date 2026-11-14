@@ -17,7 +17,7 @@ description: "Courses taught and teaching assistantships."
 </div>
 
 <div class="entry-item">
-<h3 class="entry-title">International Trade</h3>
+<h3 class="entry-title">International Economics</h3>
 <p class="entry-meta">University of Oklahoma &nbsp;·&nbsp; Summer 2025</p>
 </div>
 
@@ -39,7 +39,7 @@ description: "Courses taught and teaching assistantships."
 
 <div class="entry-item">
 <h3 class="entry-title">Intermediate Microeconomics</h3>
-<p class="entry-meta">University of Oklahoma &nbsp;·&nbsp; Fall 2022, Fall 2023</p>
+<p class="entry-meta">University of Oklahoma &nbsp;·&nbsp; 2022, 2023, 2024, 2025</p>
 </div>
 
 <div class="entry-item">
