@@ -24,7 +24,7 @@ menu:
           #   url: /code/
           #   weight: 3            
           - name: CV
-            url: /cv-emilien-akotenou.pdf
+            url: /cvsep2026.pdf
             weight: 3
         #   # weight: 1
         # - name: Design
@@ -86,11 +86,11 @@ params:
                 url: /papers/
                 weight: 2
               - name: CV
-                url: /cv-emilien-akotenou.pdf
+                url: /cvsep2026.pdf
                 weight: 3
     socialIcons:
         - name: CV
-          url: /cv-emilien-akotenou.pdf
+          url: /cvsep2026.pdf
         - name: Email
           url: mailto:eakotenou@ou.edu
         - name: Location
